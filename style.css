@@ -1,0 +1,47 @@
+html {
+	height: 100%;
+	width: 100%;
+}
+
+body {
+	height: 100%;
+	width: 100%;
+	background-image: url("https://cmkt-image-prd.global.ssl.fastly.net/0.1.0/ps/2923451/5689/2844/m1/fpnw/wm1/game_background_150-.jpg?1499079584&s=dc77d56d9746b48f4979cb4bc81bacd3");
+	background-size: 110% 110%;
+	background-repeat: no-repeat;
+}
+
+h1 {
+	font-family: 'Pacifico', cursive;
+	text-align: center;
+}
+p {
+	font-family: 'Signika', sans-serif;
+	size: 28px;
+	display: inline-block;
+
+}
+
+.snoopyDriver {
+	margin-top: 250px;
+	margin-left: 30px;
+	height: 120px;
+	width: 120px;
+}
+
+
+.snoopyPilot{
+	margin-bottom: 50px;
+	margin-left: 35px;
+	height: 120px;
+	width: 120px;
+}
+
+.toStart {
+	background-color: skyblue;
+	margin: 20px 25px 0px 25px;
+}
+
+.reset {
+	background-color: skyblue;
+}
